@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_activities.xml",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\fragment_activities.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\location_item.xml",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\location_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\location_activity_item.xml",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\location_activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_location.xml",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\fragment_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_item.xml",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_locations.xml",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\fragment_locations.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_map.xml",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    }
+]

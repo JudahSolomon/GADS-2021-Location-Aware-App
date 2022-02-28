@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_location.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\fragment_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_directions_walk_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_directions_walk_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_item.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_location_on_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_location_on_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_rowing_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_rowing_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\layout_location_activity_item.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\location_activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sports_tennis_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_sports_tennis_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_map_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_map_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_beach_access_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_beach_access_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outdoor_grill_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_outdoor_grill_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_directions_run_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_directions_run_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\layout_location_item.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\location_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_terrain_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_terrain_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_near_me_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_near_me_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_locations.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\fragment_locations.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_pool_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_pool_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sports_volleyball_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_sports_volleyball_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_activities.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\layout\\fragment_activities.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sports_basketball_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_sports_basketball_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_tap_and_play_24.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_baseline_tap_and_play_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_star_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_star_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sports_soccer_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_sports_soccer_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_directions_bike_black_24dp.xml.flat",
+        "source": "C:\\Users\\BIRHANU\\AndroidStudioProjects\\GAADS2021-Location-Aware-Apps\\app\\src\\main\\res\\drawable\\ic_directions_bike_black_24dp.xml"
+    }
+]

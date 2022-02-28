@@ -1,0 +1,51 @@
+com/psdemo/outdoorexplorer/ui/map/MapFragmentDirections.java
+ com.psdemo.outdoorexplorer.ui.map.MapFragmentDirections
+ com.psdemo.outdoorexplorer.ui.map.MapFragmentDirections$1
+ com.psdemo.outdoorexplorer.ui.map.MapFragmentDirections$ActionNavigationMapToNavigationLocation
+com/psdemo/outdoorexplorer/databinding/ActivityItemBinding.java
+ com.psdemo.outdoorexplorer.databinding.ActivityItemBinding
+com/psdemo/outdoorexplorer/databinding/FragmentMapBinding.java
+ com.psdemo.outdoorexplorer.databinding.FragmentMapBinding
+com/psdemo/outdoorexplorer/ui/location/LocationFragmentArgs.java
+ com.psdemo.outdoorexplorer.ui.location.LocationFragmentArgs
+ com.psdemo.outdoorexplorer.ui.location.LocationFragmentArgs$1
+ com.psdemo.outdoorexplorer.ui.location.LocationFragmentArgs$Builder
+com/psdemo/outdoorexplorer/databinding/FragmentLocationsBinding.java
+ com.psdemo.outdoorexplorer.databinding.FragmentLocationsBinding
+com/psdemo/outdoorexplorer/ui/locations/LocationsFragmentDirections.java
+ com.psdemo.outdoorexplorer.ui.locations.LocationsFragmentDirections
+ com.psdemo.outdoorexplorer.ui.locations.LocationsFragmentDirections$1
+ com.psdemo.outdoorexplorer.ui.locations.LocationsFragmentDirections$ActionNavigationLocationsToNavigationLocation
+com/psdemo/outdoorexplorer/ui/locations/LocationsFragmentArgs.java
+ com.psdemo.outdoorexplorer.ui.locations.LocationsFragmentArgs
+ com.psdemo.outdoorexplorer.ui.locations.LocationsFragmentArgs$1
+ com.psdemo.outdoorexplorer.ui.locations.LocationsFragmentArgs$Builder
+com/psdemo/outdoorexplorer/databinding/LocationItemBinding.java
+ com.psdemo.outdoorexplorer.databinding.LocationItemBinding
+com/psdemo/outdoorexplorer/databinding/LocationActivityItemBinding.java
+ com.psdemo.outdoorexplorer.databinding.LocationActivityItemBinding
+com/psdemo/outdoorexplorer/data/OutdoorDao_Impl.java
+ com.psdemo.outdoorexplorer.data.OutdoorDao_Impl
+ com.psdemo.outdoorexplorer.data.OutdoorDao_Impl$1
+ com.psdemo.outdoorexplorer.data.OutdoorDao_Impl$2
+ com.psdemo.outdoorexplorer.data.OutdoorDao_Impl$3
+ com.psdemo.outdoorexplorer.data.OutdoorDao_Impl$4
+ com.psdemo.outdoorexplorer.data.OutdoorDao_Impl$5
+ com.psdemo.outdoorexplorer.data.OutdoorDao_Impl$6
+ com.psdemo.outdoorexplorer.data.OutdoorDao_Impl$7
+ com.psdemo.outdoorexplorer.data.OutdoorDao_Impl$8
+com/psdemo/outdoorexplorer/data/OutdoorRoomDatabase_Impl.java
+ com.psdemo.outdoorexplorer.data.OutdoorRoomDatabase_Impl
+ com.psdemo.outdoorexplorer.data.OutdoorRoomDatabase_Impl$1
+com/psdemo/outdoorexplorer/databinding/FragmentLocationBinding.java
+ com.psdemo.outdoorexplorer.databinding.FragmentLocationBinding
+com/psdemo/outdoorexplorer/databinding/FragmentActivitiesBinding.java
+ com.psdemo.outdoorexplorer.databinding.FragmentActivitiesBinding
+com/psdemo/outdoorexplorer/ui/activities/ActivitiesFragmentDirections.java
+ com.psdemo.outdoorexplorer.ui.activities.ActivitiesFragmentDirections
+ com.psdemo.outdoorexplorer.ui.activities.ActivitiesFragmentDirections$1
+ com.psdemo.outdoorexplorer.ui.activities.ActivitiesFragmentDirections$ActionNavigationActivitiesToNavigationLocations
+com/psdemo/outdoorexplorer/databinding/ActivityMainBinding.java
+ com.psdemo.outdoorexplorer.databinding.ActivityMainBinding
+com/psdemo/outdoorexplorer/BuildConfig.java
+ com.psdemo.outdoorexplorer.BuildConfig

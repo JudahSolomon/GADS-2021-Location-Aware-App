@@ -1,0 +1,142 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.psdemo.outdoorexplorer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml
+10
+11    <!--
+12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+13         Google Maps Android API v2, but you must specify either coarse or fine
+14         location permissions for the "MyLocation" functionality.
+15    -->
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:11:5-79
+16-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:11:22-76
+17
+18    <!-- Include required permissions for Google Maps API to run. -->
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\836937cc0698abb17474748f2833218a\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\836937cc0698abb17474748f2833218a\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\836937cc0698abb17474748f2833218a\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\836937cc0698abb17474748f2833218a\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:22-64
+21
+22    <uses-feature
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\836937cc0698abb17474748f2833218a\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+23        android:glEsVersion="0x00020000"
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\836937cc0698abb17474748f2833218a\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+24        android:required="true" />
+24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\836937cc0698abb17474748f2833218a\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+25
+26    <application
+26-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:13:5-42:19
+27        android:allowBackup="true"
+27-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:14:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.3.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\4607d7e569da27a66cada6b8e6fcae4d\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:15:9-43
+31        android:label="@string/app_name"
+31-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:16:9-41
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:17:9-54
+33        android:supportsRtl="true"
+33-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:18:9-35
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme" >
+35-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:19:9-40
+36
+37        <!--
+38             The API key for Google Maps-based APIs is defined as a string resource.
+39             (See the file "res/values/google_maps_api.xml").
+40             Note that the API key is linked to the encryption key used to sign the APK.
+41             You need a different API key for each encryption key, including the release key that is used to
+42             sign the APK for publishing.
+43             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+44        -->
+45        <meta-data
+45-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:30:9-32:55
+46            android:name="com.google.android.geo.API_KEY"
+46-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:31:13-58
+47            android:value="@string/google_maps_key" />
+47-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:32:13-52
+48
+49        <activity
+49-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:33:9-41:20
+50            android:name="com.psdemo.outdoorexplorer.MainActivity"
+50-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:34:13-41
+51            android:label="@string/app_name" >
+51-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:35:13-45
+52            <intent-filter>
+52-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:36:13-40:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:37:17-69
+53-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:37:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:39:17-77
+55-->C:\Users\BIRHANU\AndroidStudioProjects\GAADS2021-Location-Aware-Apps\app\src\main\AndroidManifest.xml:39:27-74
+56            </intent-filter>
+57        </activity>
+58        <activity
+58-->[pub.devrel:easypermissions:3.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\f511792907a4480c12c512d9b45da69c\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:12:9-16:66
+59            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+59-->[pub.devrel:easypermissions:3.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\f511792907a4480c12c512d9b45da69c\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:13:13-86
+60            android:exported="false"
+60-->[pub.devrel:easypermissions:3.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\f511792907a4480c12c512d9b45da69c\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:14:13-37
+61            android:label=""
+61-->[pub.devrel:easypermissions:3.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\f511792907a4480c12c512d9b45da69c\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:15:13-29
+62            android:theme="@style/EasyPermissions.Transparent" /> <!-- Needs to be explicitly declared on P+ -->
+62-->[pub.devrel:easypermissions:3.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\f511792907a4480c12c512d9b45da69c\transformed\jetified-easypermissions-3.0.0\AndroidManifest.xml:16:13-63
+63        <uses-library
+63-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\836937cc0698abb17474748f2833218a\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+64            android:name="org.apache.http.legacy"
+64-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\836937cc0698abb17474748f2833218a\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+65            android:required="false" />
+65-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\836937cc0698abb17474748f2833218a\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+66
+67        <service
+67-->[androidx.room:room-runtime:2.2.5] C:\Users\BIRHANU\.gradle\caches\transforms-3\20aaf40a4b1a51bec5c327b9db437ca6\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+68            android:name="androidx.room.MultiInstanceInvalidationService"
+68-->[androidx.room:room-runtime:2.2.5] C:\Users\BIRHANU\.gradle\caches\transforms-3\20aaf40a4b1a51bec5c327b9db437ca6\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+69            android:directBootAware="true"
+69-->[androidx.room:room-runtime:2.2.5] C:\Users\BIRHANU\.gradle\caches\transforms-3\20aaf40a4b1a51bec5c327b9db437ca6\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+70            android:exported="false" />
+70-->[androidx.room:room-runtime:2.2.5] C:\Users\BIRHANU\.gradle\caches\transforms-3\20aaf40a4b1a51bec5c327b9db437ca6\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+71
+72        <activity
+72-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\d0831b221c9a09064e6457c61f791ab2\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+73            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+73-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\d0831b221c9a09064e6457c61f791ab2\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+74            android:exported="false"
+74-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\d0831b221c9a09064e6457c61f791ab2\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+75            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+75-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\d0831b221c9a09064e6457c61f791ab2\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+76
+77        <meta-data
+77-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\485c8eea7efdf5cc8524b2e639d65606\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+78            android:name="com.google.android.gms.version"
+78-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\485c8eea7efdf5cc8524b2e639d65606\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+79            android:value="@integer/google_play_services_version" />
+79-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\485c8eea7efdf5cc8524b2e639d65606\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+80
+81        <provider
+81-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\279ec4354197468872b0876e53effe12\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+82            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+82-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\279ec4354197468872b0876e53effe12\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+83            android:authorities="com.psdemo.outdoorexplorer.lifecycle-process"
+83-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\279ec4354197468872b0876e53effe12\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+84            android:exported="false"
+84-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\279ec4354197468872b0876e53effe12\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+85            android:multiprocess="true" />
+85-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\BIRHANU\.gradle\caches\transforms-3\279ec4354197468872b0876e53effe12\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+86    </application>
+87
+88</manifest>
